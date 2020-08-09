@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/samyo/Desktop/successMIPS_Processor/CCSiMP32_CCSiMP32_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="ccsimp32_ccsimp32_sch_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="processor_pkg" />
+            <top_module name="std_logic_1164" />
+            <top_module name="textio" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/i_en" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i_en</obj_property>
+      <obj_property name="ObjectShortName">i_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/i_clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i_clk</obj_property>
+      <obj_property name="ObjectShortName">i_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/i_clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">i_clk_period</obj_property>
+      <obj_property name="ObjectShortName">i_clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_1/o_pc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">o_pc[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_1/i_pc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i_pc[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_1/i_pc_update" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i_pc_update</obj_property>
+      <obj_property name="ObjectShortName">i_pc_update</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_28/i_fsm_inst" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_fsm_inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i_fsm_inst[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_28/o_fsm_if" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o_fsm_if</obj_property>
+      <obj_property name="ObjectShortName">o_fsm_if</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_28/o_fsm_id" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o_fsm_id</obj_property>
+      <obj_property name="ObjectShortName">o_fsm_id</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_28/o_fsm_ex" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o_fsm_ex</obj_property>
+      <obj_property name="ObjectShortName">o_fsm_ex</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_28/o_fsm_me" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o_fsm_me</obj_property>
+      <obj_property name="ObjectShortName">o_fsm_me</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_28/o_fsm_wb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o_fsm_wb</obj_property>
+      <obj_property name="ObjectShortName">o_fsm_wb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_28/state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_7/i_alu_ctl" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_alu_ctl[3:0]</obj_property>
+      <obj_property name="ObjectShortName">i_alu_ctl[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_7/i_alu_a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_alu_a[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i_alu_a[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_7/i_alu_b" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_alu_b[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i_alu_b[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_7/o_alu_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o_alu_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">o_alu_out[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ccsimp32_ccsimp32_sch_tb/UUT/XLXI_7/o_alu_zero" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o_alu_zero</obj_property>
+      <obj_property name="ObjectShortName">o_alu_zero</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/samyo/Desktop/Group4_Lab_07_Source/CCSiMP32_CCSiMP32_sch_tb_isim_beh.exe" -prj "C:/Users/samyo/Desktop/Group4_Lab_07_Source/CCSiMP32_CCSiMP32_sch_tb_beh.prj" "work.CCSiMP32_CCSiMP32_sch_tb" 

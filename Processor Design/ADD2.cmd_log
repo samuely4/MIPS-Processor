@@ -1,0 +1,2 @@
+vhdtdtfi -lib work ADD2.vhd -prj MIPS_Processor -o ADD2.spl -module ADD2 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e ADD2.spl {H:/Documents/city college the first semester/spring 2018 semester/CSC 343/labs/lab6/MIPS_Processor/ADD2.sym} 

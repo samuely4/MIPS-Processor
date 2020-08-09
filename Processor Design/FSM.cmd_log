@@ -1,0 +1,2 @@
+vhdtdtfi -lib work FSM.vhd -prj MIPS_Processor -o FSM.spl -module FSM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e FSM.spl {H:/Documents/city college the first semester/spring 2018 semester/CSC 343/labs/lab6/MIPS_Processor/FSM.sym} 

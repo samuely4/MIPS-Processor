@@ -1,0 +1,2 @@
+vhdtdtfi -lib work ACU.vhd -prj MIPS_Processor -o ACU.spl -module ACU -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e ACU.spl {H:/Documents/city college the first semester/spring 2018 semester/CSC 343/labs/lab6/MIPS_Processor/ACU.sym} 

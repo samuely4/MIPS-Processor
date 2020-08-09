@@ -1,0 +1,2 @@
+vhdtdtfi -lib work DEC.vhd -prj MIPS_Processor -o DEC.spl -module DEC -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e DEC.spl {H:/Documents/city college the first semester/spring 2018 semester/CSC 343/labs/lab6/MIPS_Processor/DEC.sym} 

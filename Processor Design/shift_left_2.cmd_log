@@ -1,0 +1,2 @@
+vhdtdtfi -lib work shift_left_2.vhd -prj MIPS_Processor -o shift_left_2.spl -module shift_left_2 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e shift_left_2.spl {H:/Documents/city college the first semester/spring 2018 semester/CSC 343/labs/lab6/MIPS_Processor/shift_left_2.sym} 

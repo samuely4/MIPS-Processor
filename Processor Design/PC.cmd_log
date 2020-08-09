@@ -1,0 +1,2 @@
+vhdtdtfi -lib work PC.vhd -prj MIPS_Processor -o PC.spl -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e PC.spl {H:/Documents/city college the first semester/spring 2018 semester/CSC 343/labs/lab6/MIPS_Processor/PC.sym} 
